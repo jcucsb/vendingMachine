@@ -1,3 +1,3 @@
 # vendingMachine
 
-#Simple Vending Machine using solidity
+Simple Vending Machine using Solidity
